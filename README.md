@@ -6,7 +6,7 @@ I bring 15+ years of experience in government services, aviation,
 and customer operations — now combining that real-world business 
 intuition with machine learning and data science.
 
-Currently completing an ACS in **AI & Data Science at Vanier College**.
+Currently completing an ACS in AI & Data Science.
 
 ---
 
