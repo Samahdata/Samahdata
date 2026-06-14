@@ -29,6 +29,7 @@ business insights and data visualizations.
 
 ### 🏙️ [Municipal Service Delay Prediction](https://github.com/Samahdata/municipal-service-delay-prediction)
 End-to-end ML diagnostic system on 101K+ city service requests. Includes leakage audit, fairness analysis across 6 boroughs, and deployable scoring pipeline.
+
 ---
 
 ## 🌍 About Me
