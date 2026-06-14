@@ -1,7 +1,38 @@
-👋 Hi, I'm Samah — Data Scientist transitioning from 15 years in operations and aviation
+# 👋 Hi, I'm Samah Sayed
 
-🔧 Skills: Python | SQL | XGBoost | Power BI | Tableau
+🎯 Data Scientist | AI & Automation | Business Analyst in Training
 
-📂 Featured Projects: Churn Prediction | Insurance Claim Prediction
+I bring 15+ years of experience in government services, aviation, 
+and customer operations — now combining that real-world business 
+intuition with machine learning and data science.
 
-🎓 Currently: AI & Data Science @ Vanier College
+Currently completing an ACS in **AI & Data Science at Vanier College**.
+
+---
+
+## 🛠️ Skills & Tools
+
+Python | SQL | XGBoost | Scikit-learn | Pandas  
+Power BI | Tableau | BigQuery | Jupyter | Git
+
+---
+
+## 📂 Featured Projects
+
+### 🚗 [Auto Insurance Claim Prediction](https://github.com/Samahdata/auto-insurance-claim-prediction)
+End-to-end ML pipeline on 180K+ policies. XGBoost model with 
+feature engineering, data leakage detection, and temporal evaluation.
+
+### 📉 [Customer Churn Intelligence System](https://github.com/Samahdata/Customer-Churn-Intelligence-System)
+Predicting customer churn using Python and ML — with actionable 
+business insights and data visualizations.
+
+---
+
+## 🌍 About Me
+
+- 📍 Based in Quebec, Canada
+- 🎓 AI & Data Science @ Vanier College (2026–2027)
+- 💼 Former: ESDC, Canada Revenue Agency, Singapore Airlines
+- 📫 samah.sayed055@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/samahsayed55)
