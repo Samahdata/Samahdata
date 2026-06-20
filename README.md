@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samah Sayed
 
-🎯 Junior Data Scientist | Data Analyst | Machine Learning | Python | SQL
+🎯 Junior Data Scientist | ML Engineer in Training | Python · SQL · XGBoost
 
 I bring 15+ years of experience in government services, aviation, 
 and customer operations — now combining that real-world business 
