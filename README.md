@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samah Sayed
 
-🎯 Data Scientist | AI & Automation | Business Analyst in Training
+🎯 Junior Data Scientist | Data Analyst | Machine Learning | Python | SQL
 
 I bring 15+ years of experience in government services, aviation, 
 and customer operations — now combining that real-world business 
